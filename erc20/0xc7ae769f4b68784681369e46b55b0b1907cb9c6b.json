@@ -1,0 +1,28 @@
+{
+  "symbol": "BCT",
+  "address": "Contract Address",
+  "overview":{
+        "en": "Token for biology research world",
+        "zh": ""
+  },
+  "email": "Email",
+  "website": "",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2019-10-15",
+  "initial_price":{
+        "ETH":"0 ETH",
+        "USD":"0 USD",
+        "BTC":"0 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
